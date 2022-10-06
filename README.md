@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eitan</h1>
+<h2 align="center">Hi 👋, I'm Eitan</h2>
+<hr/>
 <h3 align="center">A dedicated passionate Frontend/Fullstack Developer from Israel</h3>
 
 <br/>
