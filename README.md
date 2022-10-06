@@ -1,5 +1,4 @@
-<h2 align="center">Hi 👋, I'm Eitan</h2>
-<hr/>
+<h1 align="center">Hi 👋, I'm Eitan</h1>
 <h3 align="center">A dedicated passionate Frontend/Fullstack Developer from Israel</h3>
 
 <br/>
@@ -41,7 +40,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="eitanpano95" height="30" width="40" />
     </a>
-</p><br/>
+</p><hr/>
 
 <h3 align="left">Languages :</h3>
 <p align="center">
@@ -69,7 +68,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" title="css3" width="40" height="40" />
     </a>
-</p><br/>
+</p><hr/>
 
 <h3 align="left">Frameworks & DBs :</h3>
 <p align="center">
@@ -105,7 +104,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" title="mysql" width="40" height="40" />
     </a>
-</p><br/>
+</p><hr/>
 
 <h3 align="left">Libraries & Tools :</h3>
 <p align="center">
