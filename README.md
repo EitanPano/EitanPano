@@ -3,7 +3,7 @@
 
 <br/>
 
-- 💼 Looking for front-end oppotunities.
+- 💼 Looking for front-end / full-stack oppotunities.
 
 - 🔎 I'm currently learning **Next, React, React-Native**
 
