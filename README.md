@@ -2,6 +2,8 @@
 <h3 align="center">A dedicated passionate Frontend/Fullstack Developer from Israel</h3>
 
 <br/>
+- 💼 Currently looking for a front-end role.
+
 - 🔎 I'm currently learning **Next, React, React-Native**
 
 - 👨‍💻 All of my projects are available at [https://eitanpano.github.io](https://eitanpano.github.io)
