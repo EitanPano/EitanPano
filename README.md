@@ -41,7 +41,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="eitanpano95" height="30" width="40" />
     </a>
-</p><hr/>
+</p>
 
 <h3 align="left">Languages :</h3>
 <p align="center">
@@ -69,7 +69,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3" title="css3" width="40" height="40" />
     </a>
-</p><hr/>
+</p>
 
 <h3 align="left">Frameworks & DBs :</h3>
 <p align="center">
@@ -105,7 +105,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" title="mysql" width="40" height="40" />
     </a>
-</p><hr/>
+</p>
 
 <h3 align="left">Libraries & Tools :</h3>
 <p align="center">
@@ -154,7 +154,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="redux"
             width="40" height="40" />
     </a>
-</p><hr/><br/>
+</p><br/><hr/><br/>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" />
