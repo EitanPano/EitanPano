@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eitan</h1>
-<h3 align="center">A Dedicated and Passionate Front-end Developer from Israel</h3>
+<h3 align="center">A Dedicated and Passionate Frontend Developer from Israel</h3>
 
 <br/>
 
