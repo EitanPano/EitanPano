@@ -163,7 +163,7 @@
 </p>
 <br/><br/>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
+<p align="center">
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
 </p>
