@@ -153,7 +153,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" title="redux"
             width="40" height="40" />
     </a>
-</p><hr/>
+</p><hr/><br/>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" />
