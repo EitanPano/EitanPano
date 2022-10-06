@@ -154,7 +154,7 @@
             width="40" height="40" />
     </a>
 </p>
-<br/><br/>
+<br/><hr/>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" />
