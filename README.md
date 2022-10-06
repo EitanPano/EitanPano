@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eitan Pano</h1>
 <h3 align="center">A dedicated passionate Frontend/Fullstack Developer from Israel</h3>
 
-
+<br/>
 - 🔎 I'm currently learning **Next, React, React-Native**
 
 - 👨‍💻 All of my projects are available at [https://eitanpano.github.io](https://eitanpano.github.io)
@@ -13,8 +13,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/eitanpano/](https://www.linkedin.com/in/eitanpano/)
 
 - ⚡ Random fact **I started my coding adventure in C lang with CodeBlocks**
-
-
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
