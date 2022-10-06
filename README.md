@@ -3,7 +3,7 @@
 
 <br/>
 
-- 💼 Currently looking for a front-end role.
+- 💼 Looking for front-end oppotunities.
 
 - 🔎 I'm currently learning **Next, React, React-Native**
 
