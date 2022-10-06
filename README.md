@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://eitanpano.github.io](https://eitanpano.github.io)
 
-- 💬 Ask me about **Typescript, Node.js, React** or just chat :)
+- 💬 Ask me about **Typescript, Node.js, React** or just chat 🤭
 
 - 📫 Reach me at **eitanpano95@gmail.com**
 
