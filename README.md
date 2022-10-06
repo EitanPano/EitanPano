@@ -19,7 +19,7 @@
 <br/>
 
 <hr/><br/>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me :</h3>
 <p align="center">
     <a href="https://linkedin.com/in/eitan pano" target="blank">
         <img align="center"
