@@ -18,7 +18,7 @@
 - ⚡ Random fact **I started my coding adventure in C lang with CodeBlocks**
 <br/>
 
-<hr/>
+<hr/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
     <a href="https://linkedin.com/in/eitan pano" target="blank">
