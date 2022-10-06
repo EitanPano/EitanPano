@@ -165,12 +165,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" /></p>
 
-<p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eitanpano" alt="eitanpano" /</a>
-</p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eitanpano&show_icons=true&locale=en" alt="eitanpano" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" /></p>
