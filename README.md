@@ -161,12 +161,15 @@
             width="40" height="40" />
     </a>
 </p>
+<br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" /></p>
 
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eitanpano" alt="eitanpano" /</a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eitanpano&show_icons=true&locale=en&layout=compact" alt="eitanpano" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eitanpano&show_icons=true&locale=en" alt="eitanpano" /></p>
 
