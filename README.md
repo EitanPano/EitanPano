@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Typescript, Node.js, React** or just chat :)
 
-- 📫 How to reach me **eitanpano95@gmail.com**
+- 📫 Reach me at **eitanpano95@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eitanpano/](https://www.linkedin.com/in/eitanpano/)
 
