@@ -8,9 +8,9 @@
 <br/>
 
 <h3 class="heading-element" dir="auto">Main skills</h3>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,ts,nodejs,express,php,laravel,mongodb,mysql,gcp,firebase,ai,regex,codepen,js,html,pug,css,sass,tailwind,angular,react,vue,redux,jquery,jest,git,bitbucket,github,postman,kubernetes,docker,jenkins,ansible,webstorm,vscode,vim&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bash,ts,nodejs,express,php,laravel,mongodb,mysql,gcp,firebase,ai,regex,codepen,js,html,pug,css,sass,tailwind,angular,react,vue,redux,jquery,jest,git,bitbucket,github,postman,kubernetes,docker,jenkins,ansible,webstorm,vscode,vim&perline=10" />
   </a>
 </p>
 
