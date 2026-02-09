@@ -14,7 +14,6 @@
   </a>
 </p>
 
-<br/>
 
 <h3 class="heading-element" dir="auto">Studying</h3>
 <p>
@@ -23,17 +22,13 @@
   </a>
 </p>
 
+<h3 class="heading-element" dir="auto">About me</h3>
+<p>👋 Hey there! I'm a full-stack developer with 3+ years of experience building scalable web applications, automated financial systems, and cloud-native services.</p>
+<p>I work with Angular, Node.js, TypeScript, MongoDB, and GCP, focusing on clean architecture and reliable solutions that solve real problems.</p>
+<p>⚡ Random fact - My coding journey started with C and CodeBlocks (those were the days!)</p>
+<p>🎮 I enjoy gaming in my free time. I believe the best work happens through collaboration – great teams build great things.</p>
+
 <br/>
-
-- 💼 Looking for full-stack oppotunities.
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/eitanpano/](https://www.linkedin.com/in/eitanpano/)
-
-- 👨‍💻 All of my projects are available at [https://eitanpano.github.io](https://eitanpano.github.io)
-
-- 💬 Ask me about **Typescript, Node.js, React** or just chat 🤓
-
-- ⚡ Random fact **I started my coding adventure in C lang with CodeBlocks**
 
 <br/>
 
