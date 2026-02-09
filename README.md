@@ -44,7 +44,7 @@
     <a href="https://linkedin.com/in/eitan pano" target="blank" style="text-decoration:none;">
         <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="eitan pano" height="30" width="40" />
+            alt="eitan pano" height="30" width="40" style="text-decoration:none;" />
     </a>
     <a href="https://fb.com/eitan pano" target="blank">
         <img
