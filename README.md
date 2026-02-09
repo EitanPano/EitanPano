@@ -24,11 +24,9 @@
 
 <h3 class="heading-element" dir="auto">About me</h3>
 <p>👋 Hi! I'm a full-stack developer with 3+ years of impactful experience in fintech.</p>
-<p>🛠️ I work with Angular, Node.js, TypeScript, MongoDB, and GCP, focusing on clean architecture and reliable solutions that solve real problems.</p>
+<p>🛠️ I work with Angular, Node.js, TypeScript, MongoDB, and GCP, focusing on clean architecture and reliable solutions.</p>
 <p>⚡ Random fact - My coding journey started with C and CodeBlocks (those were the days!)</p>
 <p>🎮 I enjoy gaming in my free time. I believe the best work happens through collaboration – great teams build great things.</p>
-
-<br/>
 
 <br/>
 
