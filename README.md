@@ -57,13 +57,15 @@
     </a>
 </p>
 
-<br/><hr/><br/>
+<br/><hr/>
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true)
+
+<br/>
 
 <p align="center">
     <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
 </p>
 
-<br/><hr/>
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app)
+<br/>
 
