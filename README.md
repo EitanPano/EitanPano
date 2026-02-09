@@ -4,6 +4,8 @@
 
 <h3 align="center">A Dedicated and Passionate Full-Stack Developer from Israel</h3>
 
+<img src="./terminal.gif" alt="About Me Terminal GIF" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <br/>
 
 - 💼 Looking for full-stack oppotunities.
