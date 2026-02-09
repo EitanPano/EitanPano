@@ -6,7 +6,7 @@
 </p>
 
 <h3 class="heading-element" dir="auto">Main skills</h3>
-<p>
+<p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,bun,elysia,nodejs,express,php,laravel,mongodb,mysql,gcp,firebase,ai,regex,codepen,js,html,pug,css,sass,tailwind,angular,react,vue,redux,jquery,jest,git,bitbucket,github,postman,kubernetes,docker,jenkins,webstorm,vscode,vim,bash&perline=15" />
   </a>
