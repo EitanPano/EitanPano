@@ -1,7 +1,5 @@
 <p dir="auto">
-    <a target="_blank" rel="noopener noreferrer nofollow" href="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header">
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" style="max-width: 100%;">
-    </a>
 </p>
 
 
