@@ -63,7 +63,7 @@
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/17e6rIn4Hw9JzVxZA2y6quKKdXr1aZGU5" download>Download my resume</a>
 
-<br/>
+<br/><hr/><br/>
 
 <p align="center">
     <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
