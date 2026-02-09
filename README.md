@@ -42,22 +42,22 @@
 <h3 align="left">Contact me</h3>
 <p>
     <a href="https://linkedin.com/in/eitan pano" target="blank">
-        <img align="center"
+        <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="eitan pano" height="30" width="40" />
     </a>
     <a href="https://fb.com/eitan pano" target="blank">
-        <img align="center"
+        <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="eitan pano" height="30" width="40" />
     </a>
     <a href="https://stackoverflow.com/users/16407756" target="blank">
-        <img align="center"
+        <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="16407756" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/eitanpano95" target="blank">
-        <img align="center"
+        <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
             alt="eitanpano95" height="30" width="40" />
     </a>
