@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" alt="header" style="max-width: 100%; pointer-events: none; cursor: default;">
 Hi 👋, I'm Eitan
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;weight=500&amp;size=25&amp;duration=4500&amp;pause=500&amp;color=D9BED1&amp;width=435&amp;lines=Hi%2C👋%2C+I'm+Eitan+Pano;Full-Stack+Developer" alt="Business Analyst" style="max-width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;weight=500&amp;size=25&amp;duration=4500&amp;pause=500&amp;color=a1bfe3&amp;width=435&amp;lines=Hi+👋%2C+I'm+Eitan+Pano;Full-Stack+Developer" alt="Business Analyst" style="max-width: 100%;">
 
 
 <h1 align="center">Hi 👋, I'm Eitan</h1>
