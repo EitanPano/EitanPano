@@ -1,5 +1,5 @@
 <p dir="auto">
-        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" style="max-width: 100%;">
+        <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" style="max-width: 100%;pointer-events: none;">
 </p>
 
 
