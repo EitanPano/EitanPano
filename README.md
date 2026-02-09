@@ -58,7 +58,7 @@
 </p>
 
 <br/><hr/>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31beyabh3tzhm2iqto22w3dq5w7a&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31beyabh3tzhm2iqto22w3dq5w7a&unique=true)
 <br/>
 
 <p align="center">
