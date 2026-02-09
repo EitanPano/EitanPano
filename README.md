@@ -35,7 +35,7 @@
 
 ### Employer? 💼
 > [!IMPORTANT]  
-<a href="https://docs.google.com/document/d/17e6rIn4Hw9JzVxZA2y6quKKdXr1aZGU5">Download my resume</a>
+<a href="https://docs.google.com/document/d/1QhYLh2N4lx1GNLkX3dejUIW3Fq5omElR">Download my resume</a>
 
 <br/>
 
