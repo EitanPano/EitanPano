@@ -22,6 +22,7 @@
   </a>
 </p>
 
+<br/>
 
 <h3 class="heading-element" dir="auto">About me</h3>
 <p>👋 Hi! I'm a full-stack developer with 3+ years of impactful experience in fintech.</p>
