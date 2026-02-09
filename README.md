@@ -59,7 +59,7 @@
 
 <br/><hr/><br/>
 
-### 💼 Employer? 
+### Employer? 💼
 > [!IMPORTANT]  
 > <a href="https://docs.google.com/document/d/17e6rIn4Hw9JzVxZA2y6quKKdXr1aZGU5" download>Download my resume</a>
 
