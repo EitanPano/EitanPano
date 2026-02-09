@@ -14,6 +14,8 @@
   </a>
 </p>
 
+<br/>
+
 <h3 class="heading-element" dir="auto">Studying</h3>
 <p align=center>
   <a href="https://skillicons.dev">
@@ -32,9 +34,9 @@
 - 💬 Ask me about **Typescript, Node.js, React** or just chat 🤓
 
 - ⚡ Random fact **I started my coding adventure in C lang with CodeBlocks**
+
 <br/>
 
-<hr/><br/>
 <h3 align="left">Contact me :</h3>
 <p>
     <a href="https://linkedin.com/in/eitan pano" target="blank">
