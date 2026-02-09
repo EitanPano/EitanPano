@@ -3,6 +3,11 @@
         <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" alt="header" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=header" style="max-width: 100%;">
     </a>
 </p>
+
+<a href="https://git.io/typing-svg" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/9847921f654394babc8af1483490ceb8154802da3098035747c3dfc1fe5b2aa9/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d4d6f6e74736572726174267765696768743d3530302673697a653d3235266475726174696f6e3d343530302670617573653d35303026636f6c6f723d4439424544312677696474683d343335266c696e65733d48656c6c6f2532432b697427732b44617269612b5374616e696c65766963693b427573696e6573732b416e616c797374" alt="Full-Stack Developer" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Montserrat&amp;weight=500&amp;size=25&amp;duration=4500&amp;pause=500&amp;color=D9BED1&amp;width=435&amp;lines=Hello%2C+it's+Eitan+Pano;Full-Stack+Developer" style="max-width: 100%;">
+</a>
+
 <h1 align="center">Hi 👋, I'm Eitan</h1>
 <h3 align="center">A Dedicated and Passionate Full-Stack Developer from Israel</h3>
 
