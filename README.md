@@ -58,10 +58,7 @@
 </p>
 
 <br/><hr/>
-[![Spotify](https://novatorem-YOUR-USERNAME.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31beyabh3tzhm2iqto22w3dq5w7a)](https://open.spotify.com/user/31beyabh3tzhm2iqto22w3dq5w7a)
-
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31beyabh3tzhm2iqto22w3dq5w7a&unique={true|1|on|yes})
 <br/>
 
 <p align="center">
