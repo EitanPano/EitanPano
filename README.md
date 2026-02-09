@@ -14,6 +14,7 @@
   </a>
 </p>
 
+<br/>
 
 <h3 class="heading-element" dir="auto">Studying</h3>
 <p>
