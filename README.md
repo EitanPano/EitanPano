@@ -40,7 +40,7 @@
 <br/>
 
 <h3 align="left">Contact me</h3>
-<p>
+<p style="text-decoration:none;">
     <a href="https://linkedin.com/in/eitan pano" target="blank" style="text-decoration:none;">
         <img
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
