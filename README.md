@@ -63,4 +63,7 @@
     <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
 </p>
 
-<br/>
+<br/><hr/>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app)
+
