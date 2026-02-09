@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Eitan</h1>
-<h3 align="center">A Dedicated and Passionate Frontend Developer from Israel</h3>
+<h3 align="center">A Dedicated and Passionate Full-Stack Developer from Israel</h3>
 
 <br/>
 
-- 💼 Looking for front-end / full-stack oppotunities.
+- 💼 Looking for full-stack oppotunities.
 
-- 🔎 I'm currently learning **Next, React, React-Native**
+- 📄 Know about my experiences [https://www.linkedin.com/in/eitanpano/](https://www.linkedin.com/in/eitanpano/)
 
 - 👨‍💻 All of my projects are available at [https://eitanpano.github.io](https://eitanpano.github.io)
 
 - 💬 Ask me about **Typescript, Node.js, React** or just chat 🤓
-
-- 📫 Reach me at **eitanpano95@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/eitanpano/](https://www.linkedin.com/in/eitanpano/)
 
 - ⚡ Random fact **I started my coding adventure in C lang with CodeBlocks**
 <br/>
