@@ -57,8 +57,10 @@
     </a>
 </p>
 
-<hr/><br/>
+<br/><hr/><br/>
 
 <p align="center">
     <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
 </p>
+
+<br/>
