@@ -69,6 +69,4 @@
     <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
 </p>
 
-<br/>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=footer" alt="footer"/>
