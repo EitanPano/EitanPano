@@ -29,6 +29,7 @@
 <p>⚡ Random fact - My coding journey started with C and CodeBlocks (those were the days!)</p>
 <p>🎮 I believe the best work happens through collaboration – great teams build great things.</p>
 
+<br/>
 
 <h3 align="left">Contact me :</h3>
 <p>
