@@ -5,6 +5,8 @@
   <img align="center" src="./terminal.gif" alt="About Me Terminal GIF" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">  
 </p>
 
+<br/>
+
 <h3 class="heading-element" dir="auto">Main skills</h3>
 <p align=center>
   <a href="https://skillicons.dev">
