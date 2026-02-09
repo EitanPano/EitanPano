@@ -57,7 +57,7 @@
     </a>
 </p>
 
-<br/><hr/><br/>
+<br/>
 
 ### Employer? 💼
 > [!IMPORTANT]  
