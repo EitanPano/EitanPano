@@ -19,7 +19,7 @@
 <h3 class="heading-element" dir="auto">Studying</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,ai,bun,elysia" />
+    <img src="https://skillicons.dev/icons?i=gcp,ai,bun,elysia,claude" />
   </a>
 </p>
 
