@@ -66,7 +66,9 @@
 <hr/>
 
 <p align="center">
-    <img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=eitanpano&" alt="eitanpano" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=eitanpano" alt="GitHub Streak" />
+  </a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=footer" alt="footer"/>
