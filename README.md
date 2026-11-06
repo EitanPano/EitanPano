@@ -71,4 +71,8 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eitanpano&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a1bfe3&height=120&section=footer" alt="footer"/>
